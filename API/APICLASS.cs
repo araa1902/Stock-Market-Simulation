@@ -14,7 +14,7 @@ namespace STOCKUI2
     {
         
         private List<Values> values;
-        private static readonly string API_FILEPATH = $"{Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)}\\OneDrive - Bradford Grammar School\\Home Drive\\computer science\\Year 13 - Year 1\\NEA 10JAN\\testtttt\\NEA - 19DEC\\NEA\\API_KEY.txt";
+        private static readonly string API_FILEPATH = //API KEY!
 
         public API()
         {
