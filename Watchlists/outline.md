@@ -1,1 +1,1 @@
-
+Section of the application that allows users to set watchlists and tasks to complete with varying priorities. This utilises a priority queue implementation to organise order of tasks ranging from most to least important.
