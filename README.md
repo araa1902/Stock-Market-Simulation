@@ -8,4 +8,4 @@ This project was developed as part of my A-Level Non-Examined Assessment (NEA) m
 - **Portfolio Management and Analysis**: Manage and analyze your stock portfolio, tracking investments and performance metrics.
 - **Stochastic Simulations**: Utilize stochastic models to simulate potential price movements, enhancing your trading strategies.
 
-For a detailed overview of the project, please refer to the documentation attacted. You can also watch a demonstration of the program's functionality on YouTube: [Stock Market Simulator Demo](https://youtu.be/IYRjPYVRNJw).
+For a detailed overview of the project, please refer to the documentation attached. You can also watch a demonstration of the program's functionality on YouTube: [Stock Market Simulator Demo](https://youtu.be/IYRjPYVRNJw).
