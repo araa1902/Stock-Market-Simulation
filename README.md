@@ -9,3 +9,5 @@ This project was developed as part of my A-Level Non-Examined Assessment (NEA) m
 - **Stochastic Simulations**: Utilize stochastic models to simulate potential price movements, enhancing your trading strategies.
 
 For a detailed overview of the project, please refer to the documentation attached. You can also watch a demonstration of the program's functionality on YouTube: [Stock Market Simulator Demo](https://youtu.be/IYRjPYVRNJw).
+
+For this project, I achieved an overall mark of **71/75**.
