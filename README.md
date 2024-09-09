@@ -1,4 +1,4 @@
-# StockMarketSimulation
+# Stock Market Simulation
 
 This project was developed as part of my A-Level Non-Examined Assessment (NEA) module. The simulator is designed to allow users to paper trade, providing a realistic experience of the stock market without financial risk.
 
